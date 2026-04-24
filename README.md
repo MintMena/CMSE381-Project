@@ -13,7 +13,7 @@ This project uses a dataset of 6,607 students with 19 predictors to answer one c
 We look at this problem two ways:
 
 - **Regression** — predict a student's exact exam score
-- 
+  
 - **Classification** — group students into Low, Medium or High performers
 
 We found out that students can be classified with about 97% accuracy.
