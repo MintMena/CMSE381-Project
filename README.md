@@ -1,3 +1,5 @@
+**Student Exam Score Prediction Model**
+
 This project looks at what affects students' exam scores from 6,607 students and 19 factors like attendance, study hours, sleep and family background.
 We predicted exam scores with OLS, Ridge, Lasso and PCR. Then sorted students into Low/Medium/High groups with logistic regression.
 
